@@ -1,5 +1,4 @@
 import React from 'react'
-import { FaGithub, FaLinkedin, FaInstagram, FaEnvelope, FaPhone } from 'react-icons/fa'
 import profile from '../assets/profile.jpg'
 
 export default function Hero(){
